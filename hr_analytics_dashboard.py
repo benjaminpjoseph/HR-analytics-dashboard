@@ -122,7 +122,7 @@ def sidebar():
     st.sidebar.markdown("---")
     st.sidebar.markdown("### About")
     st.sidebar.info(
-        "This dashboard analyzes employee attrition data to identify risk factors "
+        "This dashboard analyses employee attrition data to identify risk factors "
         "and simulate potential HR interventions to improve retention."
     )
     
